@@ -1,0 +1,13 @@
+{
+  "configuration": {
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "TestRequest",
+    "type": "object",
+    "properties": {},
+    "required": []
+  },
+  "description": "My test Request module",
+  "name": "TestRequest",
+  "uuid": "2416a0a9-5e7d-404e-88a1-a9ca3bb2f037",
+  "version": "0.1.0"
+}
