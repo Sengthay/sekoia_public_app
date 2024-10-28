@@ -1,10 +1,8 @@
 {
   "configuration": {
-    "$schema": "http://json-schema.org/draft-07/schema#",
-    "title": "TestRequest",
+    "title": "TestrequestModuleConfiguration",
     "type": "object",
-    "properties": {},
-    "required": []
+    "properties": {}
   },
   "description": "My test Request module",
   "name": "TestRequest",
