@@ -9,6 +9,6 @@
   "description": "My test Request module",
   "name": "TestRequest",
   "uuid": "2416a0a9-5e7d-404e-88a1-a9ca3bb2f037",
-  "slug": "TestRequest",
+  "slug": "testrequest",
   "version": "0.1.0"
 }
