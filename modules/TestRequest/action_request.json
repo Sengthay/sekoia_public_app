@@ -1,6 +1,6 @@
 {
   "name": "Request",
-  "description": null,
+  "description": "Action request",
   "uuid": "5be1e93f-288b-585d-9f22-70287066c6f2",
   "docker_parameters": "Request",
   "arguments": {

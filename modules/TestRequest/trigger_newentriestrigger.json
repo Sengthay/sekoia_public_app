@@ -1,6 +1,6 @@
 {
   "name": "NewEntriesTrigger",
-  "description": null,
+  "description": "New entries",
   "uuid": "bcbfda0a-876e-5d4d-b9dc-04f9128ae9e6",
   "docker_parameters": "NewEntriesTrigger",
   "arguments": {
