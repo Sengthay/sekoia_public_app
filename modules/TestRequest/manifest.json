@@ -2,11 +2,38 @@
   "configuration": {
     "title": "TestrequestModuleConfiguration",
     "type": "object",
-    "properties": {}
+    "properties": {
+      "test_url": {
+        "title": "Test Url",
+        "description": "Test Request Base URL",
+        "minLength": 1,
+        "maxLength": 2083,
+        "format": "uri",
+        "type": "string"
+      },
+      "test_username": {
+        "title": "Username",
+        "description": "Test Request username",
+        "type": "string"
+      },
+      "test_key": {
+        "title": "Key",
+        "description": "Key to authenticate the requests",
+        "type": "string"
+      }
+    },
+    "required": [
+      "test_url",
+      "test_username",
+      "test_key"
+    ],
+    "secrets": [
+      "test_key"
+    ]
   },
   "description": "My test Request module",
   "name": "TestRequest",
-  "uuid": "71e5ae49-75bc-491d-9954-7ed606991263",
+  "uuid": "5b22576f-8f17-4da2-becd-69032134b8af",
   "slug": "testrequest",
   "version": "0.1.0"
 }
