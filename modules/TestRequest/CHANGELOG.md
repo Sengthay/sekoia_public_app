@@ -16,3 +16,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Update module
+
+## 2024-11-26 - 0.1.2
+
+### Added
+
+- Update module
